@@ -2,9 +2,9 @@
 # ------------------
 title: My Diary
 
-# GitHub Pages 项目站点 URL（仓库名 diary2）
+# GitHub Pages 项目站点 URL（仓库名 diary）
 url: "https://potato3822.github.io"
-baseurl: "/diary2"
+baseurl: "/diary"
 
 # author:
 #   name: GitHub User

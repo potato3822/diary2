@@ -1,4 +1,4 @@
-# 部署到 GitHub Pages（项目站点：https://potato3822.github.io/diary2）
+# 部署到 GitHub Pages（项目站点：https://potato3822.github.io/diary）
 name: Deploy to GitHub Pages
 
 on:
